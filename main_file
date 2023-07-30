@@ -1,7 +1,10 @@
 {
   photos :{
     src : ["https://picsum.photos/", "https://unsplash.com/"],
-    notes : "used this to search free random photos (this is a random photos generator, not 100% random actually, you can set parameter to get photo that you want"
+    notes : "used this reference to search free random photos (this is a random photos generator, not 100% random actually, you can set parameter to get photo that you want"
   }
-    
+  learning_sites :{
+    src : ["https://www.udemy.com/", "https://www.hackerrank.com/", "https://www.freecodecamp.org/", "https://leetcode.com/"],
+    notes : "used this reference to get any new skill/knowledge or to test your skill, especially in programming/technology"
+  }  
 }
